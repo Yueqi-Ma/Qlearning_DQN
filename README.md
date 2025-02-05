@@ -1,1 +1,1 @@
-# LunarLanderDQN
+# Qlearning and DQN
